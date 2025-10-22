@@ -13,3 +13,8 @@
 # ex2
 
 - git diff
+
+
+# ex4
+
+- fix/commit/push
